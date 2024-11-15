@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 2</title>
+</head>
+<body style="color: blue;">
+
+  <header id="top" style="text-align: center;">
+      <h1>Hello there I'm Nahar Khaled</h1>
+  </header>
+
+  <main>
+    <section id="about" style="text-align: center;">
+        <h2>About Me</h2>
+        <p>I am a member at IEEE KFS student branch and study at HIMIT in the CS department.</p>
+        <p><strong>This is a summary</strong>. Here we can <em>emphasize</em> some important points.</p>
+        <img src="https://assets.onecompiler.app/42xtkuapd/42y7yhw5s/FB_IMG_1731690025341.jpg" alt="Sample Image" width="100">
+    </section>
+
+    <hr>
+
+    <section id="contact Me" style="text-align: center;">
+        <h2>Contact</h2>
+        <a href="mailto:khaledelbelasy2@gmail.com">Contact me via email</a>
+    </section>
+
+  
+        </ul>
+    </section>
+  </main>
+
+  <hr>
+
+ 
+    <!-- Social Media Icons -->
+    <center> <a href="https://www.facebook.com/nahar.khaled.12?mibextid=ZbWKwL" target="_blank">
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALwAAAC8CAMAAAD1lzSZAAAAYFBMVEU7V53///83VJuzvNbCyd9MZaUwT5lxgrPz9PpvgLNmea84V5/Y3Ont8PZ1hrX6+/3f5O8pS5cTP5LHzeBEXqEjR5UbQ5SOnMOkrcytt9OXpMeHlr+CkbxWbqrm6fHQ1eVZuSHqAAAC2UlEQVR4nO3bW4+qMBSGYVxCOR+qoIgi//9fbvZkbnY2UCG1azX53ru5MHmmAVpbDAKEEEIIIYQQQgghhJDAiLgFByKlO60oD4I8pzml57+1VoqE/zukulubVfe+f5x/6+eG+/MVZ2PU6kvHTVxLXbpsmIp3Us+dfqt/SpKyaYqimPqcW7kQKRWkYXIyVeTirh2iNh0ao1wkXlF8fn9CF4jXY/8hXRyeuqqpzWqReFK9+TYViqfouoMuC0/ZPrskvBqnfXZBeLXzmpGEpyDca5eD1/3nj0hpeJXueUbKwlO092aVhB/2XzRS8DQWB+xC8MGBu1UKXh0beCH4+6GBF4GndvfcKgevsmN2EXjd+4z/6Nu2TDxFx25XEXj9+hBfl82/hfz429nsTq7PrG1bbup/UWeaoepiyC9a5NYqRYb7tT6PWqD7J5UZNpkereI2rqaqctM+tVKHfU5vL2ySl9xxD4Jue34NJQ+8YXGQDJLtgdrEly/ReNqco96paHy+iW9GyfcrbeOn0eORv0aS8YaRl403jHwI/NcCnivguQKeK+CZMiwPZOO9Hnng2QL+66mVtvGtXvuccvjtto2r5TZP06YqXSvOnOlV9q6X27Kf6mS1erq4w2/vpx4ovHmMH7TH+JfPeHebaV/Au9v8to8vfcYXgcf40N3CwT7+4TN+cLe2sY+/e4wvK4/xjcPTKuv4wuGBj3W8yzMT6/izw6Nx2/j64YxuH58MHuPLp8NfNdrGvyuHeyLW8e72DuzjC5cvJdjGOz0at413+gaUZfz8mPcY7/T1Lcv4xOFq/u/PE9J4sdS00br8Mcdb33a3uGVs2/txuLAS8EzhEJkt4LkCnivguQKeKcywbAHPFfBcAc8V8Fz5jMfygC3guQKeK+C5Ap4pzLBsAc8V8FwBzxXwXAHPFNY2bAHPFfBcAc8V8ExhhmULeK6A5wp4roDnymc8lgdsAb/UH06pQkwVl6oMAAAAAElFTkSuQmCC" alt="Facebook" width="30" style="margin: 0 10px;">
+    </a>
+    <a href="https://www.instagram.com/nahar_kahled427/profilecard/?igsh=eWVsYnlkYng4YXU1" target="_blank">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwi9oGt1b1wWq4zsw7f67XNbsFnJoXNr1Z9uCNUgQRUg&s" alt="Instagram" width="30" style="margin: 0 10px;">
+    </a>
+    <a href="https://www.linkedin.com/in/nahar-khaled/" target="_blank">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlKpi_RdDk2IrykUvO5SZCB1Uo-nlEsr7C1w&usqp=CAU" alt="LinkedIn" width="30" style="margin: 0 10px;">
+    </a></center>
+  </footer>
+
+</body>
+</html>
